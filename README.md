@@ -2,10 +2,8 @@
 
 ## Project Overview
 
-Welcome to MedConnect, a healthcare platform designed to enhance patient care and streamline medical services. **This project is part of the Web Tech Hackathon: Innovate with Finance and Healthcare by Hunar Intern**, where we proudly secured **5th place**!
-
+Welcome to MedConnect, a healthcare platform designed to enhance patient care and streamline medical services.
 MedConnect integrates a range of innovative features to address healthcare challenges, including symptom checking, appointment scheduling, and wellness tracking. Our solution was recognized for its creativity and practical impact in the healthcare sector.
-
 
 ### Installation
 
@@ -30,6 +28,6 @@ To run this project locally, follow these steps:
 
 ### Copyright
 
-© [2024] Shreya Navnath Chavan. All rights reserved.
+© [2025] Abhishek Patil. All rights reserved.
 
 Thank you for exploring MedConnect. We hope it provides valuable insights and tools for healthcare management!
